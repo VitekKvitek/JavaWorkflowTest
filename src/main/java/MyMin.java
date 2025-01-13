@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class MyMin {
-
     // vrati min
     public static int min(int x, int y) {
         return x < y ? x : x;
